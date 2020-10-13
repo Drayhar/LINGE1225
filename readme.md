@@ -15,6 +15,3 @@ Les fichiers avec la nomenclature **tpx.py** sont mes réponses pour les TP.
 Si vous ne voulez pas vous spoilez, vous pouvez utiliser dans un premier temps les fichiers **testTpx.py**
 qui reprennent juste les différents *assert* avec des conseils (à venir). C'est d'ailleurs une meilleure méthode
 pour apprendre un langage. 
-
-
-**Vincent Bauffe, 2020-2021**
